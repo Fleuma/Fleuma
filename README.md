@@ -4,7 +4,6 @@
   <p align="center">-✨ Amante da programação</p> 
   <p align="center">-🚀 Em busca de se tornar fullstack</p>
 </div>
-<br>
 
 <div align="center">
   <a href="https://github.com/Fleuma">
